@@ -1,0 +1,182 @@
+[
+  {
+    "ClockId": 7,
+    "ClockName": "Cryptocurrency",
+    "ClockExPlain": "Cyber currency\r\nStats are updated in a brief time interval. For the real time stats, please check the online financial site.the price from \"https://coincap.io/\" in USD."
+  },
+  {
+    "ClockId": 33,
+    "ClockName": "stock",
+    "ClockExPlain": "Stock\r\nStats are updated in a brief time interval. For the real time stats, please check online financial site."
+  },
+  {
+    "ClockId": 99,
+    "ClockName": "Exchange Rate",
+    "ClockExPlain": "International exchange rate\r\nFor display, the data is magnified 100 times and is from https://api.exchangerate-api.com！\r\nStats are updated in an hour time interval. For the real time stats, please check online financial site."
+  },
+  {
+    "ClockId": 119,
+    "ClockName": " Stock",
+    "ClockExPlain": "Stock\r\nStats are updated in a brief time interval. For the real time stats, please check online financial site."
+  },
+  {
+    "ClockId": 131,
+    "ClockName": "RSS News",
+    "ClockExPlain": "RSS News:\r\nAuthor: Divoom\r\n\r\nClock Info: Display RSS new title for major events on the selected fileds. In clock configuration, please selected your interested topics and apply. The clock will rotate and display the title of the major eveents.\r\n\r\nSource: https://rss.nytimes.com. The clock has taken resource from this link, which can be accessed publicly on the Internet. All copyrights and title belongs to the original source and authors. Not intended for business use.\r\nContact:\r\nFunction & suggestion: developer@divoom.com\r\nCustomer support: support@divoom.com\r\n"
+  },
+  {
+    "ClockId": 143,
+    "ClockName": "Cryptocurrency",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 145,
+    "ClockName": "Exchange Rate",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 153,
+    "ClockName": "YouTube Channel List",
+    "ClockExPlain": "Please enter the channel ID (not the channel name). The channel ID can be found on the browser URL. For example:\r\nDivoom's YouTube channel's URL is: https://www.youtube.com/c/Divoominternational, and the channel ID is: Divoominternational (not its channel name Divoom).\r\n*The channel ID is always available on the URL, and it may not be the same as the channel name."
+  },
+  {
+    "ClockId": 155,
+    "ClockName": "YouTube Vedio List",
+    "ClockExPlain": "YouTube Video\r\nA YouTube Video ID is a unique ID to identify a video which is uploaded to YouTube.\r\nExample: https://youtu.be/30KqRUvegu4 where \"30KqRUvegu4\" is the YouTube video ID"
+  },
+  {
+    "ClockId": 171,
+    "ClockName": "Custom RSS",
+    "ClockExPlain": "Custom RSS Clock:\r\nAuthor: Divoom\r\n\r\nClock Info: Insert your desired RSS link, and Pixoo-64 will fetch and display RSS new titles from the source.\r\n\r\nDisclaimer: all copyrights belong to its original source and author. Divoom is not responsible for any legal disputes.\r\n\r\nFor developer suggestions, Email: developer@divoom.com\r\nFor tech support, Email: support@divoom.com"
+  },
+  {
+    "ClockId": 181,
+    "ClockName": "Chinese stock",
+    "ClockExPlain": "USA Stock\r\nStats are updated in a brief time interval. For the real time stats, please check online financial site."
+  },
+  {
+    "ClockId": 187,
+    "ClockName": "Plan2",
+    "ClockExPlain": "Display multiple clocks in your defined rotation order.\r\n\r\nPlease make sure the device firmware version is 90144 or higher"
+  },
+  {
+    "ClockId": 197,
+    "ClockName": "Plan4",
+    "ClockExPlain": "Display multiple clocks in your defined rotation order.\r\n\r\nPlease make sure the device firmware version is 90144 or higher"
+  },
+  {
+    "ClockId": 199,
+    "ClockName": "Plan5",
+    "ClockExPlain": "Display multiple clocks in your defined rotation order.\r\n\r\nPlease make sure the device firmware version is 90144 or higher"
+  },
+  {
+    "ClockId": 217,
+    "ClockName": "Plan1",
+    "ClockExPlain": "Display multiple clocks in your defined rotation order.\r\n\r\nPlease make sure the device firmware version is 90144 or higher"
+  },
+  {
+    "ClockId": 261,
+    "ClockName": "Stock",
+    "ClockExPlain": "Stock\r\nStats are updated in a brief time interval. For the real time stats, please check online financial site."
+  },
+  {
+    "ClockId": 281,
+    "ClockName": "RSS News",
+    "ClockExPlain": "RSS News:\r\nAuthor: Divoom\r\n\r\nClock Info: Display RSS new title for major events on the selected fileds. In clock configuration, please selected your interested topics and apply. The clock will rotate and display the title of the major eveents.\r\n\r\nSource: https://rss.nytimes.com. The clock has taken resource from this link, which can be accessed publicly on the Internet. All copyrights and title belongs to the original source and authors. Not intended for business use.\r\nContact:\r\nFunction & suggestion: developer@divoom.com\r\nCustomer support: support@divoom.com\r\n"
+  },
+  {
+    "ClockId": 301,
+    "ClockName": "Exchange Rate",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 337,
+    "ClockName": "Custom RSS",
+    "ClockExPlain": "Custom RSS Clock:\r\nAuthor: Divoom\r\n\r\nClock Info: Insert your desired RSS link, and Pixoo-64 will fetch and display RSS new titles from the source.\r\n\r\nDisclaimer: all copyrights belong to its original source and author. Divoom is not responsible for any legal disputes.\r\n\r\nFor developer suggestions, Email: developer@divoom.com\r\nFor tech support, Email: support@divoom.com"
+  },
+  {
+    "ClockId": 349,
+    "ClockName": "Chinese stock",
+    "ClockExPlain": "USA Stock\r\nStats are updated in a brief time interval. For the real time stats, please check online financial site."
+  },
+  {
+    "ClockId": 361,
+    "ClockName": "Cryptocurrency",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 570,
+    "ClockName": "DIY Time number",
+    "ClockExPlain": "Dial - Dial Description:\r\nDial Inspiration: Divoom Team\r\nDescription: You can use animations from the DIVOOM community as clock digits to design your own clock dial.\r\nFunction Introduction: Users need to set animations from 0 to 9 and ':', and after configuring them, the dial will use these animations to display time.\r\nDevice Feedback: support@divoom.com\r\nFunction Development Suggestions: developer@divoom.com"
+  },
+  {
+    "ClockId": 571,
+    "ClockName": "Plan3",
+    "ClockExPlain": "Display multiple clocks in your defined rotation order.\r\n\r\nPlease make sure the device firmware version is 90144 or higher"
+  },
+  {
+    "ClockId": 581,
+    "ClockName": "Clock face",
+    "ClockExPlain": "Dial - Dial Description:\r\nDial Inspiration: Divoom Team\r\nDescription: Different styles of numbers can be selected to display time information.\r\nFunction Introduction: Choose the relevant font in the configuration to change the style.\r\nDevice Feedback: support@divoom.com\r\nFunction Development Suggestions: developer@divoom.com"
+  },
+  {
+    "ClockId": 583,
+    "ClockName": "Import Figure",
+    "ClockExPlain": "Dial - Dial Description:\r\nDial Inspiration: Divoom Team\r\nDescription: Choose multiple animations from the DIVOOM community, and five screens can synchronize playback of related animations.\r\nFunction Introduction: There are a total of four sets of switches, and each screen can be configured with four consecutive animations.\r\nDevice Feedback: support@divoom.com\r\nFunction Development Suggestions: developer@divoom.com"
+  },
+  {
+    "ClockId": 697,
+    "ClockName": "City Time",
+    "ClockExPlain": "You can freely choose five different sets of city times and add corresponding city background pictures"
+  },
+  {
+    "ClockId": 703,
+    "ClockName": "Brilliant Xamas",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 716,
+    "ClockName": "Xamas-Knitting",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 727,
+    "ClockName": "Halloween Skeleton",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 738,
+    "ClockName": "Halloween Pumpkin",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 749,
+    "ClockName": "Halloween Spider Web Skeleton",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 760,
+    "ClockName": "Xamas-Candy Cane",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 771,
+    "ClockName": "Xamas-Gingerbread",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 813,
+    "ClockName": "Digital Information Board ",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 832,
+    "ClockName": "Overall weather dial",
+    "ClockExPlain": ""
+  },
+  {
+    "ClockId": 838,
+    "ClockName": "Text Creatiom",
+    "ClockExPlain": "Imagine sitting at your desk with a quaint time lamp composed of five small square screens, softly flickering away. It's not just a guardian of time, but also a miniature palette for your moods. Each screen can switch fonts according to your feelings or spur-of-the-moment inspirations, like dressing time in different outfits. In the mood for nostalgia? Try a typewriter font. Feeling breezy? A stylish handwritten font might be the way to go.\r\n\r\nThe colors too are at your command. Feeling exuberant today? Bright yellow is your hue. In need of some tranquility? A soft blue can calm your senses. Even the background images are yours to choose, from photos of your travels to scenes from your favorite films, showcasing your personality.\r\n\r\nThis time lamp is like a cozy corner that allows your creativity and memories to shine through every tiny moment. Perched under your computer, it's your companion through work; placed on the table, it's both a decoration and a fountain of inspiration. Life is more than the hustle before your eyes—it's also about this lamp on your desk, and the dancing words within it."
+  }
+]

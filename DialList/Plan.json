@@ -1,0 +1,67 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 187,
+      "Name": "Plan2"
+    },
+    {
+      "ClockId": 189,
+      "Name": "Plan2"
+    },
+    {
+      "ClockId": 191,
+      "Name": "Plan3"
+    },
+    {
+      "ClockId": 193,
+      "Name": "Plan4"
+    },
+    {
+      "ClockId": 195,
+      "Name": "Plan5"
+    },
+    {
+      "ClockId": 197,
+      "Name": "Plan4"
+    },
+    {
+      "ClockId": 199,
+      "Name": "Plan5"
+    },
+    {
+      "ClockId": 201,
+      "Name": "Plan1"
+    },
+    {
+      "ClockId": 217,
+      "Name": "Plan1"
+    },
+    {
+      "ClockId": 571,
+      "Name": "Plan3"
+    },
+    {
+      "ClockId": 848,
+      "Name": "Plan1"
+    },
+    {
+      "ClockId": 849,
+      "Name": "Plan2"
+    },
+    {
+      "ClockId": 850,
+      "Name": "Plan3"
+    },
+    {
+      "ClockId": 851,
+      "Name": "Plan4"
+    },
+    {
+      "ClockId": 852,
+      "Name": "Plan5"
+    }
+  ],
+  "TotalNum": 15
+}

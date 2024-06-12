@@ -1,0 +1,119 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 792,
+      "Name": "Frame 1"
+    },
+    {
+      "ClockId": 793,
+      "Name": "Frame 2"
+    },
+    {
+      "ClockId": 794,
+      "Name": "Frame 3"
+    },
+    {
+      "ClockId": 795,
+      "Name": "Frame 4"
+    },
+    {
+      "ClockId": 796,
+      "Name": "Frame 5"
+    },
+    {
+      "ClockId": 797,
+      "Name": "Frame 6"
+    },
+    {
+      "ClockId": 798,
+      "Name": "Rimless"
+    },
+    {
+      "ClockId": 799,
+      "Name": "Frame7"
+    },
+    {
+      "ClockId": 800,
+      "Name": "Frame 8"
+    },
+    {
+      "ClockId": 801,
+      "Name": "Frame 9"
+    },
+    {
+      "ClockId": 802,
+      "Name": "Frame 10"
+    },
+    {
+      "ClockId": 803,
+      "Name": "Frame 11"
+    },
+    {
+      "ClockId": 804,
+      "Name": "Frame 12"
+    },
+    {
+      "ClockId": 805,
+      "Name": "Frame 13"
+    },
+    {
+      "ClockId": 806,
+      "Name": "Frame 14"
+    },
+    {
+      "ClockId": 807,
+      "Name": "Frame 15"
+    },
+    {
+      "ClockId": 811,
+      "Name": "Widgets 1"
+    },
+    {
+      "ClockId": 812,
+      "Name": "Widgets 2"
+    },
+    {
+      "ClockId": 819,
+      "Name": "Widgets 3"
+    },
+    {
+      "ClockId": 821,
+      "Name": "Widgets 4"
+    },
+    {
+      "ClockId": 822,
+      "Name": "Widgets 5"
+    },
+    {
+      "ClockId": 823,
+      "Name": "Widgets 6"
+    },
+    {
+      "ClockId": 824,
+      "Name": "Widgets 7"
+    },
+    {
+      "ClockId": 825,
+      "Name": "Widgets 8"
+    },
+    {
+      "ClockId": 826,
+      "Name": "Widgets 9"
+    },
+    {
+      "ClockId": 827,
+      "Name": "Widgets 10"
+    },
+    {
+      "ClockId": 828,
+      "Name": "Widgets 11"
+    },
+    {
+      "ClockId": 829,
+      "Name": "Widgets 12"
+    }
+  ],
+  "TotalNum": 28
+}

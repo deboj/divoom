@@ -1,0 +1,19 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 7,
+      "Name": "Cryptocurrency"
+    },
+    {
+      "ClockId": 33,
+      "Name": "stock"
+    },
+    {
+      "ClockId": 99,
+      "Name": "Exchange Rate"
+    }
+  ],
+  "TotalNum": 3
+}

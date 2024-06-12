@@ -1,0 +1,23 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 90,
+      "Name": "League of Legends"
+    },
+    {
+      "ClockId": 92,
+      "Name": "Overwatch"
+    },
+    {
+      "ClockId": 208,
+      "Name": "Fortnite"
+    },
+    {
+      "ClockId": 696,
+      "Name": "PUBG"
+    }
+  ],
+  "TotalNum": 4
+}

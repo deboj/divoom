@@ -1,0 +1,39 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 5,
+      "Name": "MLB"
+    },
+    {
+      "ClockId": 292,
+      "Name": "NBA® Matches Clock"
+    },
+    {
+      "ClockId": 296,
+      "Name": "NBA® Teams Clock"
+    },
+    {
+      "ClockId": 298,
+      "Name": "F1® Clock"
+    },
+    {
+      "ClockId": 302,
+      "Name": "URFA® League Clock"
+    },
+    {
+      "ClockId": 304,
+      "Name": "NBA® Live Clock"
+    },
+    {
+      "ClockId": 602,
+      "Name": "NHL"
+    },
+    {
+      "ClockId": 1024,
+      "Name": "NCAA LAX"
+    }
+  ],
+  "TotalNum": 8
+}

@@ -1,0 +1,35 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 570,
+      "Name": "DIY Time number"
+    },
+    {
+      "ClockId": 581,
+      "Name": "Clock face"
+    },
+    {
+      "ClockId": 583,
+      "Name": "Import Figure"
+    },
+    {
+      "ClockId": 697,
+      "Name": "City Time"
+    },
+    {
+      "ClockId": 813,
+      "Name": "Digital Information Board "
+    },
+    {
+      "ClockId": 832,
+      "Name": "Overall weather dial"
+    },
+    {
+      "ClockId": 838,
+      "Name": "Text Creatiom"
+    }
+  ],
+  "TotalNum": 7
+}

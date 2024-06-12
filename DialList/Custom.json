@@ -1,0 +1,27 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 3,
+      "Name": "Clock Collections"
+    },
+    {
+      "ClockId": 283,
+      "Name": "DIY Analog Clock"
+    },
+    {
+      "ClockId": 284,
+      "Name": "DIY Digital Clock"
+    },
+    {
+      "ClockId": 285,
+      "Name": "DIY Digit Pic Clock"
+    },
+    {
+      "ClockId": 310,
+      "Name": "DIY Net Data Clock"
+    }
+  ],
+  "TotalNum": 5
+}

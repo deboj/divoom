@@ -1,0 +1,47 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 57,
+      "Name": "Cloud Channel"
+    },
+    {
+      "ClockId": 59,
+      "Name": "Visualizer"
+    },
+    {
+      "ClockId": 61,
+      "Name": "Custom 1"
+    },
+    {
+      "ClockId": 63,
+      "Name": "Custom 2"
+    },
+    {
+      "ClockId": 65,
+      "Name": "Custom3"
+    },
+    {
+      "ClockId": 984,
+      "Name": "Custom1"
+    },
+    {
+      "ClockId": 986,
+      "Name": "Custom 2"
+    },
+    {
+      "ClockId": 988,
+      "Name": "Custom 3"
+    },
+    {
+      "ClockId": 990,
+      "Name": "Visualizer"
+    },
+    {
+      "ClockId": 992,
+      "Name": "Cloud Channel"
+    }
+  ],
+  "TotalNum": 10
+}

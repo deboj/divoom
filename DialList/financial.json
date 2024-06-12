@@ -1,0 +1,103 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 12,
+      "Name": "Stock - 2"
+    },
+    {
+      "ClockId": 21,
+      "Name": "赛博朋克屏幕3中间时间美股（新修改）"
+    },
+    {
+      "ClockId": 25,
+      "Name": "赛博朋克屏幕1美股（新修改）"
+    },
+    {
+      "ClockId": 29,
+      "Name": "赛博朋克屏幕2（新修改）"
+    },
+    {
+      "ClockId": 31,
+      "Name": "赛博朋克屏幕5美股（新修改）"
+    },
+    {
+      "ClockId": 64,
+      "Name": "Bitcoin "
+    },
+    {
+      "ClockId": 67,
+      "Name": "赛博朋克屏幕虚拟货币1（新修改）"
+    },
+    {
+      "ClockId": 69,
+      "Name": "赛博朋克屏幕2虚拟货币（新修改）"
+    },
+    {
+      "ClockId": 75,
+      "Name": "赛博朋克屏幕2深沪股票（新修改）"
+    },
+    {
+      "ClockId": 81,
+      "Name": "赛博朋克屏幕5深沪股票（新修改）"
+    },
+    {
+      "ClockId": 85,
+      "Name": "赛博朋克屏幕1汇率表盘（新修改）"
+    },
+    {
+      "ClockId": 87,
+      "Name": "赛博朋克屏幕2汇率表盘（新修改）"
+    },
+    {
+      "ClockId": 93,
+      "Name": "赛博朋克屏幕5虚拟货币（新修改）"
+    },
+    {
+      "ClockId": 95,
+      "Name": "赛博朋克屏幕5汇率表盘（新修改）"
+    },
+    {
+      "ClockId": 97,
+      "Name": "赛博朋克屏幕1深圳沪表盘（新修改）"
+    },
+    {
+      "ClockId": 196,
+      "Name": "Stock - Detail"
+    },
+    {
+      "ClockId": 206,
+      "Name": "Cyber Currency"
+    },
+    {
+      "ClockId": 207,
+      "Name": "赛博朋克屏幕1深圳沪表盘（新修改）"
+    },
+    {
+      "ClockId": 209,
+      "Name": "赛博朋克屏幕2深沪股票（新修改）"
+    },
+    {
+      "ClockId": 211,
+      "Name": "赛博朋克屏幕3中间时间美股（新修改）"
+    },
+    {
+      "ClockId": 213,
+      "Name": "赛博朋克屏幕4温度显示 美股（新修改）"
+    },
+    {
+      "ClockId": 215,
+      "Name": "赛博朋克屏幕5深沪股票（新修改）"
+    },
+    {
+      "ClockId": 240,
+      "Name": "Exchange Rate"
+    },
+    {
+      "ClockId": 693,
+      "Name": "Neon Currency"
+    }
+  ],
+  "TotalNum": 24
+}

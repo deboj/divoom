@@ -1,0 +1,31 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 119,
+      "Name": " Stock"
+    },
+    {
+      "ClockId": 131,
+      "Name": "RSS News"
+    },
+    {
+      "ClockId": 145,
+      "Name": "Exchange Rate"
+    },
+    {
+      "ClockId": 171,
+      "Name": "Custom RSS"
+    },
+    {
+      "ClockId": 181,
+      "Name": "Chinese stock"
+    },
+    {
+      "ClockId": 361,
+      "Name": "Cryptocurrency"
+    }
+  ],
+  "TotalNum": 6
+}

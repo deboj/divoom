@@ -1,0 +1,67 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 72,
+      "Name": "World Clocks"
+    },
+    {
+      "ClockId": 98,
+      "Name": "Pink Message Board"
+    },
+    {
+      "ClockId": 104,
+      "Name": " Message Board(English only)"
+    },
+    {
+      "ClockId": 186,
+      "Name": "Spotify Clock "
+    },
+    {
+      "ClockId": 188,
+      "Name": "Amazon music"
+    },
+    {
+      "ClockId": 224,
+      "Name": "Vintage Message Board"
+    },
+    {
+      "ClockId": 234,
+      "Name": "RSS Clock"
+    },
+    {
+      "ClockId": 243,
+      "Name": "Love notes"
+    },
+    {
+      "ClockId": 246,
+      "Name": "Custom RSS"
+    },
+    {
+      "ClockId": 282,
+      "Name": "QR code"
+    },
+    {
+      "ClockId": 677,
+      "Name": "Tidal Time"
+    },
+    {
+      "ClockId": 874,
+      "Name": " Message Board(English only)"
+    },
+    {
+      "ClockId": 876,
+      "Name": "Pink Message Board"
+    },
+    {
+      "ClockId": 928,
+      "Name": "Love notes"
+    },
+    {
+      "ClockId": 936,
+      "Name": "Vintage Message Board"
+    }
+  ],
+  "TotalNum": 15
+}

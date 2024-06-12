@@ -1,0 +1,27 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 4,
+      "Name": "HUAWEI health"
+    },
+    {
+      "ClockId": 202,
+      "Name": "Fitbit clock"
+    },
+    {
+      "ClockId": 625,
+      "Name": "PC Monitor"
+    },
+    {
+      "ClockId": 846,
+      "Name": "Pulsoid Dial"
+    },
+    {
+      "ClockId": 1020,
+      "Name": "HypeRate"
+    }
+  ],
+  "TotalNum": 5
+}

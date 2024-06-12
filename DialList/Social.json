@@ -1,0 +1,127 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 24,
+      "Name": "X- Post"
+    },
+    {
+      "ClockId": 26,
+      "Name": "Facebook Video"
+    },
+    {
+      "ClockId": 38,
+      "Name": "YouTube Account"
+    },
+    {
+      "ClockId": 40,
+      "Name": "YouTube Video"
+    },
+    {
+      "ClockId": 43,
+      "Name": "YouTube频道屏幕1-5"
+    },
+    {
+      "ClockId": 45,
+      "Name": "YouTube频道屏幕1-1"
+    },
+    {
+      "ClockId": 46,
+      "Name": "Bilibili Account"
+    },
+    {
+      "ClockId": 47,
+      "Name": "YouTube频道屏幕3"
+    },
+    {
+      "ClockId": 48,
+      "Name": "Bilibili-works"
+    },
+    {
+      "ClockId": 49,
+      "Name": "YouTube频道屏幕1-2"
+    },
+    {
+      "ClockId": 51,
+      "Name": "YouTube频道屏幕1-4"
+    },
+    {
+      "ClockId": 52,
+      "Name": "Bilibili Concept Account"
+    },
+    {
+      "ClockId": 53,
+      "Name": "YouTube Video List"
+    },
+    {
+      "ClockId": 54,
+      "Name": "Bilibili Concept Video"
+    },
+    {
+      "ClockId": 55,
+      "Name": "YouTube Account List"
+    },
+    {
+      "ClockId": 58,
+      "Name": "DouYu Stream"
+    },
+    {
+      "ClockId": 100,
+      "Name": "X- Account"
+    },
+    {
+      "ClockId": 101,
+      "Name": "抖音作者1-5"
+    },
+    {
+      "ClockId": 102,
+      "Name": "Influencer "
+    },
+    {
+      "ClockId": 103,
+      "Name": "抖音作者1-1"
+    },
+    {
+      "ClockId": 105,
+      "Name": "抖音作者3"
+    },
+    {
+      "ClockId": 107,
+      "Name": "抖音作者1-2"
+    },
+    {
+      "ClockId": 109,
+      "Name": "抖音作者1-4"
+    },
+    {
+      "ClockId": 114,
+      "Name": "Bilibili Video"
+    },
+    {
+      "ClockId": 116,
+      "Name": "Bilibili Stream"
+    },
+    {
+      "ClockId": 159,
+      "Name": "YouTube视频屏幕4-点赞"
+    },
+    {
+      "ClockId": 160,
+      "Name": "Divoom"
+    },
+    {
+      "ClockId": 161,
+      "Name": "YouTube视频屏幕3-浏览量"
+    },
+    {
+      "ClockId": 163,
+      "Name": "YouTube视频屏幕5-评论"
+    },
+    {
+      "ClockId": 222,
+      "Name": "TikTok Video"
+    }
+  ],
+  "TotalNum": 42
+}

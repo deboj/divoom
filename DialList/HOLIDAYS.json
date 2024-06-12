@@ -1,0 +1,119 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 74,
+      "Name": "Anniversary Pink"
+    },
+    {
+      "ClockId": 76,
+      "Name": "Anniversary Green"
+    },
+    {
+      "ClockId": 126,
+      "Name": "Christmas clock1"
+    },
+    {
+      "ClockId": 212,
+      "Name": "Shiba Inu Christmas"
+    },
+    {
+      "ClockId": 214,
+      "Name": "Christmas calendar"
+    },
+    {
+      "ClockId": 216,
+      "Name": "Christmas clock2"
+    },
+    {
+      "ClockId": 218,
+      "Name": "Christmas girl room clock"
+    },
+    {
+      "ClockId": 238,
+      "Name": "Happy New Year"
+    },
+    {
+      "ClockId": 247,
+      "Name": "Birthday countdown"
+    },
+    {
+      "ClockId": 251,
+      "Name": "Anniversary Countdown"
+    },
+    {
+      "ClockId": 703,
+      "Name": "Brilliant Xamas"
+    },
+    {
+      "ClockId": 716,
+      "Name": "Xamas-Knitting"
+    },
+    {
+      "ClockId": 727,
+      "Name": "Halloween Skeleton"
+    },
+    {
+      "ClockId": 738,
+      "Name": "Halloween Pumpkin"
+    },
+    {
+      "ClockId": 749,
+      "Name": "Halloween Spider Web Skeleton"
+    },
+    {
+      "ClockId": 760,
+      "Name": "Xamas-Candy Cane"
+    },
+    {
+      "ClockId": 771,
+      "Name": "Xamas-Gingerbread"
+    },
+    {
+      "ClockId": 864,
+      "Name": "Christmas clock1"
+    },
+    {
+      "ClockId": 878,
+      "Name": "Anniversary Green"
+    },
+    {
+      "ClockId": 880,
+      "Name": "Anniversary Pink"
+    },
+    {
+      "ClockId": 902,
+      "Name": "Christmas calendar"
+    },
+    {
+      "ClockId": 904,
+      "Name": "Shiba Inu Christmas"
+    },
+    {
+      "ClockId": 924,
+      "Name": "Anniversary Countdown"
+    },
+    {
+      "ClockId": 926,
+      "Name": "Birthday countdown"
+    },
+    {
+      "ClockId": 930,
+      "Name": "Happy New Year"
+    },
+    {
+      "ClockId": 938,
+      "Name": "Christmas girl room clock"
+    },
+    {
+      "ClockId": 940,
+      "Name": "Christmas clock2"
+    },
+    {
+      "ClockId": 976,
+      "Name": "Heart-pounding time"
+    }
+  ],
+  "TotalNum": 28
+}

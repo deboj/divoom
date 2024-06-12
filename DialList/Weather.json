@@ -1,0 +1,91 @@
+{
+  "ReturnCode": 0,
+  "ReturnMessage": "",
+  "DialList": [
+    {
+      "ClockId": 135,
+      "Name": "T&H data(Neon)"
+    },
+    {
+      "ClockId": 136,
+      "Name": "Chameleon clock"
+    },
+    {
+      "ClockId": 139,
+      "Name": "Weather (Neon)"
+    },
+    {
+      "ClockId": 146,
+      "Name": "Valoub Clock"
+    },
+    {
+      "ClockId": 152,
+      "Name": "Big Time"
+    },
+    {
+      "ClockId": 168,
+      "Name": "Shiba Inu clock"
+    },
+    {
+      "ClockId": 170,
+      "Name": "pink design clock"
+    },
+    {
+      "ClockId": 172,
+      "Name": "Weather TWO"
+    },
+    {
+      "ClockId": 182,
+      "Name": "Weather ONE"
+    },
+    {
+      "ClockId": 253,
+      "Name": "Today weather"
+    },
+    {
+      "ClockId": 257,
+      "Name": "T&H data(Sci-Fi)"
+    },
+    {
+      "ClockId": 259,
+      "Name": "Weather(Sci-Fi)"
+    },
+    {
+      "ClockId": 393,
+      "Name": "Weather(Sci-Fi)"
+    },
+    {
+      "ClockId": 401,
+      "Name": "T&H data(Sci-Fi)"
+    },
+    {
+      "ClockId": 423,
+      "Name": "T&H data(Neon)"
+    },
+    {
+      "ClockId": 427,
+      "Name": "Weather (Neon)"
+    },
+    {
+      "ClockId": 882,
+      "Name": "Big Time"
+    },
+    {
+      "ClockId": 896,
+      "Name": "Chameleon clock-64"
+    },
+    {
+      "ClockId": 916,
+      "Name": "Weather TWO"
+    },
+    {
+      "ClockId": 918,
+      "Name": "pink design clock"
+    },
+    {
+      "ClockId": 920,
+      "Name": "Shiba Inu clock"
+    }
+  ],
+  "TotalNum": 21
+}
