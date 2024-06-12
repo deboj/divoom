@@ -1,1 +1,25 @@
-{"ReturnCode":0,"ReturnMessage":"","DialTypeList":["Pixel Art","Normal","Social","financial","Weather","HOLIDAYS","TOOLS","Sport","Game","Smart hardware","Custom","Time","Timeless","Sci-Fi","Neon","Cyberpunk","Personality","Plan","Tivoo border"]}
+{
+    "ReturnCode": 0,
+    "ReturnMessage": "",
+    "DialTypeList": [
+        "Pixel Art",
+        "Normal",
+        "Social",
+        "financial",
+        "Weather",
+        "HOLIDAYS",
+        "TOOLS",
+        "Sport",
+        "Game",
+        "Smart hardware",
+        "Custom",
+        "Time",
+        "Timeless",
+        "Sci-Fi",
+        "Neon",
+        "Cyberpunk",
+        "Personality",
+        "Plan",
+        "Tivoo border"
+    ]
+}

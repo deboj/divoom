@@ -1,1 +1,42 @@
-{"ReturnCode":0,"ReturnMessage":"","ChannelType":0,"LcdIndependence":76915,"ClockId":119,"LcdIndependenceList":[{"IndependenceName":"Control1","LcdIndependence":76915,"LcdIndependPos":0,"LcdList":[{"LcdSelectIndex":0,"LcdClockId":0,"ClockImagePixelId":""},{"LcdSelectIndex":0,"LcdClockId":0,"ClockImagePixelId":""},{"LcdSelectIndex":0,"LcdClockId":0,"ClockImagePixelId":""},{"LcdSelectIndex":0,"LcdClockId":0,"ClockImagePixelId":""},{"LcdSelectIndex":0,"LcdClockId":0,"ClockImagePixelId":""}]}],"DeviceId":300100503}
+{
+    "ReturnCode": 0,
+    "ReturnMessage": "",
+    "ChannelType": 0,
+    "LcdIndependence": 76915,
+    "ClockId": 119,
+    "LcdIndependenceList": [
+        {
+            "IndependenceName": "Control1",
+            "LcdIndependence": 76915,
+            "LcdIndependPos": 0,
+            "LcdList": [
+                {
+                    "LcdSelectIndex": 0,
+                    "LcdClockId": 0,
+                    "ClockImagePixelId": ""
+                },
+                {
+                    "LcdSelectIndex": 0,
+                    "LcdClockId": 0,
+                    "ClockImagePixelId": ""
+                },
+                {
+                    "LcdSelectIndex": 0,
+                    "LcdClockId": 0,
+                    "ClockImagePixelId": ""
+                },
+                {
+                    "LcdSelectIndex": 0,
+                    "LcdClockId": 0,
+                    "ClockImagePixelId": ""
+                },
+                {
+                    "LcdSelectIndex": 0,
+                    "LcdClockId": 0,
+                    "ClockImagePixelId": ""
+                }
+            ]
+        }
+    ],
+    "DeviceId": 300100503
+}

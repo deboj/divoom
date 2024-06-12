@@ -1,0 +1,6 @@
+{
+    "Command": "Channel/SetClockSelectId",
+    "ClockId": 304,
+    "LcdIndex": 1,
+    "LcdIndependence": 76915
+}
